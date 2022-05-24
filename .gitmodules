@@ -7,3 +7,6 @@
 [submodule "libraries/catchnhole"]
 	path = libraries/catchnhole
 	url = https://github.com/mmalecki/catchnhole.git
+[submodule "libraries/UB.scad"]
+	path = libraries/UB.scad
+	url = https://github.com/UBaer21/UB.scad.git
