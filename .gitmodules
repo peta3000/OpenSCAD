@@ -10,3 +10,6 @@
 [submodule "libraries/UB.scad"]
 	path = libraries/UB.scad
 	url = https://github.com/UBaer21/UB.scad.git
+[submodule "libraries/Round-Anything"]
+	path = libraries/Round-Anything
+	url = https://github.com/Irev-Dev/Round-Anything.git
