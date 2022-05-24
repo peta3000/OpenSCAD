@@ -4,3 +4,6 @@
 [submodule "libraries/ScrewMetric"]
 	path = libraries/ScrewMetric
 	url = https://github.com/More-Wrong/ScrewsMetric.git
+[submodule "libraries/catchnhole"]
+	path = libraries/catchnhole
+	url = https://github.com/mmalecki/catchnhole.git
