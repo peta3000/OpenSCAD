@@ -1,0 +1,9 @@
+[submodule "libraries/MCAD"]
+	path = libraries/MCAD
+	url = https://github.com/openscad/MCAD.git
+[submodule "libraries/ScrewMetric"]
+	path = libraries/ScrewMetric
+	url = https://github.com/More-Wrong/ScrewsMetric.git
+[submodule "library/catchnhole"]
+	path = libraries/catchnhole
+	url = https://github.com/mmalecki/catchnhole.git
