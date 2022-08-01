@@ -13,3 +13,6 @@
 [submodule "libraries/Round-Anything"]
 	path = libraries/Round-Anything
 	url = https://github.com/Irev-Dev/Round-Anything.git
+[submodule "libraries/NopSCADlib"]
+	path = libraries/NopSCADlib
+	url = https://github.com/nophead/NopSCADlib.git
