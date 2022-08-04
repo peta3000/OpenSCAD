@@ -16,3 +16,6 @@
 [submodule "libraries/NopSCADlib"]
 	path = libraries/NopSCADlib
 	url = https://github.com/nophead/NopSCADlib.git
+[submodule "libraries/constructive"]
+	path = libraries/constructive
+	url = https://github.com/solidboredom/constructive.git
